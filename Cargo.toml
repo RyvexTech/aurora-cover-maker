@@ -1,0 +1,7 @@
+[package]
+name = "aurora-cover-maker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libaustralis = { git = "https://github.com/jrobiche/libaustralis", rev = "7bba3345b86d97a431ab874c77841be3ec528e34" }
